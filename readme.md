@@ -1,0 +1,8 @@
+-> npm init
+-> npm install express
+-> npm install nodemon -D ()
+-> scripts - nodemon server.js
+-> Install Docker
+-> docker run --name mongodb -p 27017:27017 -d mongo
+-> npm install mongoose
+-> npm install require-dir
